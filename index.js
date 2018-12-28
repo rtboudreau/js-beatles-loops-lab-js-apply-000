@@ -1,5 +1,4 @@
 // add solution here
-// add solution here
 
 var musicians = [ "John Lenon", "Paul McCartney",  "George Harrison", "Ringo Starr"]
 
